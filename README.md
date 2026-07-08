@@ -1,41 +1,28 @@
 # Maze Exploration Game in Python
+Prosta gra tekstowa napisana w Pythonie.
+Gracz porusza się po labiryncie, przechodzi między komnatami, zbiera przedmioty.
 
-A text-based maze exploration game built in Python using object-oriented programming.  
-The player can explore rooms, collect items, open doors with keys, encounter creatures, and navigate through a maze.
-
-## Technologies
-
+## Technologie
 - Python
-- Object-Oriented Programming
+- programowanie obiektowe
 - unittest
-- UML class diagram
+- diagram UML
 
-## Features
+## Zawartość
 
-- Text-based maze exploration
-- Rooms, doors, passages, keys, treasures, and creatures
-- Inventory system for collecting and dropping items
-- Locked doors that require matching keys
-- A thief character that can steal treasures from the player
-- Command-based gameplay
-- Unit tests for key game mechanics
+- komnaty, przejścia i drzwi,
+- klucze i skarby,
+- ekwipunek gracza,
+- zamknięte drzwi, które wymagają odpowiedniego klucza,
+- złodziej, który może ukraść skarb,
+- testy jednostkowe sprawdzające najważniejsze elementy gry,
+- diagram UML pokazujący klasy w projekcie.
 
-## Object-Oriented Programming Concepts
+## Diagram UML
 
-This project uses several OOP concepts, including:
+![Diagram UML](uml_diagram.png)
 
-- Classes and objects
-- Inheritance
-- Polymorphism
-- Composition
-- Encapsulation
-- Class relationships represented in a UML diagram
-
-## UML Class Diagram
-
-![UML class diagram](uml_diagram.png)
-
-## Project Structure
+## Struktura projektu
 
 ```text
 maze-exploration-oop-python/
