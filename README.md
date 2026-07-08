@@ -1,6 +1,7 @@
 # Maze Exploration Game in Python
-Prosta gra tekstowa napisana w Pythonie.
-Gracz porusza się po labiryncie, przechodzi między komnatami, zbiera przedmioty.
+
+Prosta gra tekstowa napisana w Pythonie. 
+Jest to projekt końcowy zrealizowany w ramach przedmiotu Programowanie 2 w języku Python na studiach.
 
 ## Technologie
 - Python
