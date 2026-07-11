@@ -15,8 +15,7 @@ Projekt został wykonany jako praca końcowa w ramach przedmiotu **Programowanie
 - zbieranie kluczy i skarbów,
 - otwieranie zamkniętych drzwi,
 - ekwipunek gracza,
-- losowo poruszający się złodzieje,
-- tekstowy system poleceń.
+- losowo poruszający się złodzieje.
 
 ## Diagram UML
 
