@@ -36,19 +36,6 @@ Wykorzystano:
 - agregację,
 - podział programu na klasy.
 
-Najważniejsze klasy projektu:
-
-- `Gra`
-- `Gracz`
-- `Mapa`
-- `Komnata`
-- `Przejście`
-- `Drzwi`
-- `Przedmiot`
-- `Klucz`
-- `Skarb`
-- `Stworzenie`
-- `Złodziej`
 
 
 ## Testy jednostkowe
