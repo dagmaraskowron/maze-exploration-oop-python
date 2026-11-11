@@ -6,7 +6,7 @@ Projekt przedstawia tekstową grę przygodową napisaną w Pythonie z wykorzysta
 
 Gracz eksploruje labirynt składający się z połączonych komnat, zbiera klucze i skarby, otwiera zamknięte drzwi oraz unika złodziei przemieszczających się po mapie.
 
-Projekt został wykonany jako praca końcowa w ramach przedmiotu **Programowanie 2 w języku Python**.
+Projekt został wykonany jako praca końcowa w ramach przedmiotu Programowanie 2 w języku Python.
 
 ## Najważniejsze elementy gry
 
